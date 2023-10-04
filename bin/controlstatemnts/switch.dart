@@ -1,5 +1,5 @@
 void main(){
-  int size = 4;
+  int size = 7;
 
   switch(size){
     case 4:
